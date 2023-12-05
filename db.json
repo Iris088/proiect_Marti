@@ -37,7 +37,7 @@
       "description": "Brand new and high quality.",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+      "photo_url": "https://media.adeo.com/marketplace/LMIT/30126292/45972.jpeg?width=3000&height=3000&format=jpg&quality=80&fit=bounds"
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
       "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
       "price": 300,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+      "photo_url": "https://www.cartucciaperfetta.it/cdn/shop/products/giotto-colla-stick-40gr.jpg?v=1691608358"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
       "description": "Can make color party.",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+      "photo_url": "https://3dmano.it/203/colla-stick-uhu-40g.jpg"
     },
     {
       "id": 5,
