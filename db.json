@@ -25,8 +25,8 @@
   "products": [
     {
       "id": 2,
-      "name": "the best marketplace",
-      "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
+      "name": "glue",
+      "description": "glue stick",
       "price": 92,
       "author_id": 1,
       "photo_url": "https://www.libreriaefesto.com/115-large_default/colla-stick-pritt-henkel-formato-medio-22-grammi.jpg"
