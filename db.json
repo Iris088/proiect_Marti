@@ -34,7 +34,7 @@
     {
       "id": 2,
       "name": "Arduino UNO",
-      "description": "Brand new and high quality.",
+      "description": "adesiv de diferite culori",
       "price": 180,
       "author_id": 3,
       "photo_url": "https://3dmano.it/203/colla-stick-uhu-40g.jpg"
@@ -42,7 +42,7 @@
     {
       "id": 3,
       "name": "ESP8266 5V",
-      "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
+      "description": "adesiv de diferite culori",
       "price": 300,
       "author_id": 2,
       "photo_url": "https://borgione.kleecks-cdn.com/media/catalog/product/cache/97fd31ef810ac8d4b9a5bb9813b996a1/1/1/114314_1_2.jpg"
@@ -50,7 +50,7 @@
     {
       "id": 4,
       "name": "RGB",
-      "description": "Can make color party.",
+      "description": "adesiv de diferite culori",
       "price": 92,
       "author_id": 1,
       "photo_url": "https://3dmano.it/203/colla-stick-uhu-40g.jpg"
@@ -58,7 +58,7 @@
     {
       "id": 5,
       "name": "Resistor 10k Ohm",
-      "description": "Can resist the voltage. Super cool.",
+      "description": "adesiv de diferite culori",
       "price": 180,
       "author_id": 3,
       "photo_url": "https://www.barbabook.it/files/barbabook_Files/Foto/450166_4.PNG"
@@ -66,7 +66,7 @@
     {
       "id": 6,
       "name": "7-Segment Display",
-      "description": "Epic.",
+      "description": "adesiv de diferite culori",
       "price": 300,
       "author_id": 2,
       "photo_url": "https://www.barbabook.it/files/barbabook_Files/Foto/450166_4.PNG"
