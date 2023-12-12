@@ -33,7 +33,7 @@
     },
     {
       "id": 2,
-      "name": "Arduino UNO",
+      "name": "Glue",
       "description": "adesiv de diferite culori",
       "price": 180,
       "author_id": 3,
@@ -41,7 +41,7 @@
     },
     {
       "id": 3,
-      "name": "ESP8266 5V",
+      "name": "Glue",
       "description": "adesiv de diferite culori",
       "price": 300,
       "author_id": 2,
@@ -49,7 +49,7 @@
     },
     {
       "id": 4,
-      "name": "RGB",
+      "name": "Glue",
       "description": "adesiv de diferite culori",
       "price": 92,
       "author_id": 1,
@@ -57,7 +57,7 @@
     },
     {
       "id": 5,
-      "name": "Resistor 10k Ohm",
+      "name": "Glue",
       "description": "adesiv de diferite culori",
       "price": 180,
       "author_id": 3,
@@ -65,7 +65,7 @@
     },
     {
       "id": 6,
-      "name": "7-Segment Display",
+      "name": "Glue",
       "description": "adesiv de diferite culori",
       "price": 300,
       "author_id": 2,
