@@ -25,51 +25,51 @@
   "products": [
     {
       "id": 2,
-      "name": "glue",
-      "description": "glue stick",
+      "name": "ski",
+      "description": "sport ski",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://www.libreriaefesto.com/115-large_default/colla-stick-pritt-henkel-formato-medio-22-grammi.jpg"
+      "photo_url": "https://www.monterosaskirental.it/wp-content/uploads/2016/09/Professional_Sci_Monterosaskirental_2022_02.jpg"
     },
     {
       "id": 2,
-      "name": "Glue",
-      "description": "adesiv de diferite culori",
+      "name": "ski",
+      "description": "skies",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://3dmano.it/203/colla-stick-uhu-40g.jpg"
+      "photo_url": "https://df-sportspecialist.it/cdn/shop/products/984281431569-sci_wc_rebel_e-speed__ff_st_14.jpg?v=1671843653"
     },
     {
       "id": 3,
-      "name": "Glue",
-      "description": "adesiv de diferite culori",
+      "name": "ski",
+      "description": "snow skies",
       "price": 300,
       "author_id": 2,
-      "photo_url": "https://borgione.kleecks-cdn.com/media/catalog/product/cache/97fd31ef810ac8d4b9a5bb9813b996a1/1/1/114314_1_2.jpg"
+      "photo_url": "https://static.privatesportshop.com/img/p/2705564-8293530-thickbox.jpg"
     },
     {
       "id": 4,
-      "name": "Glue",
-      "description": "adesiv de diferite culori",
+      "name": "ski",
+      "description": "best skies",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://3dmano.it/203/colla-stick-uhu-40g.jpg"
+      "photo_url": "https://www.sportclubshop.it/wp-content/uploads/2022/11/02585-000-2821.jpg"
     },
     {
       "id": 5,
-      "name": "Glue",
-      "description": "adesiv de diferite culori",
+      "name": "ski",
+      "description": "sport ski",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://www.barbabook.it/files/barbabook_Files/Foto/450166_4.PNG"
+      "photo_url": "https://snowpatroller.com/cdn/shop/products/atomic-sci-montagna-backland-85.jpg?v=1637083095"
     },
     {
       "id": 6,
-      "name": "Glue",
-      "description": "adesiv de diferite culori",
+      "name": "ski",
+      "description": "sport ski",
       "price": 300,
       "author_id": 2,
-      "photo_url": "https://www.barbabook.it/files/barbabook_Files/Foto/450166_4.PNG"
+      "photo_url": "https://www.sportmania.ch/media/catalog/product/cache/03af595138979564486a02fb5a1693cd/s/k/ski_atomic_n_maverick_95_ti_2023.png"
     }
   ]
 }
